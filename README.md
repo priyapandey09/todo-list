@@ -15,7 +15,8 @@ Welcome to **iTask**, your personal task management app built with **React**. Th
 ![image](https://github.com/user-attachments/assets/ee0cecfb-eb17-49f9-be02-87c6921c1004)
 
 **Without Data**
-![image](https://github.com/user-attachments/assets/299da77b-486c-4fa0-9478-f0cfe9afdbc6)
+![image](https://github.com/user-attachments/assets/0fdf1f19-5b3e-4e07-a509-fa7cc3179f34)
+
 
 ## 🚀 Getting Started
 
